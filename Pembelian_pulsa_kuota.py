@@ -7,14 +7,6 @@ from tkinter.messagebox import showerror
 from abc import ABC
 from turtle import bgcolor
 
-#modul 1 ada(variabel)
-#modul 2 ada (if)
-#modul 3 belum ada (while)
-#modul 4 ada (function = def)
-#modul 5 ada (class & inheritance)
-#modul 6 ada (getter setter)
-#modul 7 belum ada (stack & queue)
-#modul 8 ada (GUI)
 
 class P(ABC):
     ask = None
